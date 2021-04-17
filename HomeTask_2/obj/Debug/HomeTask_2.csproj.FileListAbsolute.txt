@@ -12,3 +12,6 @@ C:\Users\x\source\repos\HomeTask_2\HomeTask_2\obj\Debug\HomeTask_2.Sign_in.resou
 C:\Users\x\source\repos\HomeTask_2\HomeTask_2\obj\Debug\HomeTask_2.Main.resources
 C:\Users\x\source\repos\HomeTask_2\HomeTask_2\obj\Debug\HomeTask_2.New_note.resources
 C:\Users\x\source\repos\HomeTask_2\HomeTask_2\obj\Debug\HomeTask_2.Edit_note.resources
+D:\My files\Uni\4cü semestr\Müasir programlaşdırma dilləri\HomeTask_2\HomeTask_2\bin\Debug\HomeTask_2.exe.config
+D:\My files\Uni\4cü semestr\Müasir programlaşdırma dilləri\HomeTask_2\HomeTask_2\obj\Debug\HomeTask_2.exe
+D:\My files\Uni\4cü semestr\Müasir programlaşdırma dilləri\HomeTask_2\HomeTask_2\obj\Debug\HomeTask_2.pdb
